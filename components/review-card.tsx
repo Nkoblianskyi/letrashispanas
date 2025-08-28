@@ -24,7 +24,7 @@ export function ReviewCard({ review }: ReviewCardProps) {
           className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
         />
         <div className="absolute top-2 right-2">
-          <Badge variant="secondary" className="bg-background/90 backdrop-blur-sm text-xs">
+          <Badge variant="secondary" className="bg-background/90 backdrop-blur-sm text-xs text-black">
             {review.genre}
           </Badge>
         </div>
