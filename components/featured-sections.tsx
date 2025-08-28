@@ -98,8 +98,8 @@ export function FeaturedSections() {
                   <span className="text-xs text-muted-foreground ml-2">({book.rating}/5)</span>
                 </div>
                 <p className="text-xs text-muted-foreground mb-2 line-clamp-1">{book.excerpt}</p>
-                <Button variant="ghost" size="sm" className="w-full text-xs h-7">
-                  Leer reseña completa
+                <Button asChild variant="ghost" size="sm" className="w-full text-xs h-7">
+                  <Link href="/resenas">Leer reseña completa</Link>
                 </Button>
               </CardContent>
             </Card>
@@ -139,8 +139,8 @@ export function FeaturedSections() {
               </CardHeader>
               <CardContent className="px-3 pb-3">
                 <p className="text-xs text-muted-foreground mb-2 line-clamp-1">{article.excerpt}</p>
-                <Button variant="ghost" size="sm" className="w-full text-xs h-7">
-                  Leer artículo
+                <Button asChild variant="ghost" size="sm" className="w-full text-xs h-7">
+                  <Link href="/articulos">Leer artículo</Link>
                 </Button>
               </CardContent>
             </Card>
