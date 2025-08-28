@@ -131,35 +131,6 @@ La muerte prematura de Lorca a los 38 años no pudo silenciar su voz. Sus poemas
     image: "/federico-garcia-lorca-andalusia-spanish-poet-grana.png",
   },
   {
-    id: "5",
-    slug: "ensayo-literatura-pandemia",
-    title: "Literatura en Tiempos de Pandemia: Reflexiones sobre el Aislamiento",
-    excerpt: "Cómo la pandemia de COVID-19 ha influido en la creación literaria y en nuestras formas de leer.",
-    content: `La pandemia de COVID-19 no solo transformó nuestras vidas cotidianas, sino que también dejó una marca profunda en el mundo literario. El confinamiento, el aislamiento y la incertidumbre se convirtieron en temas centrales de una nueva literatura pandémica.
-
-## El Redescubrimiento de la Lectura
-
-Durante los primeros meses de confinamiento, muchas personas redescubrieron el placer de la lectura. Las librerías reportaron un aumento significativo en las ventas, especialmente de clásicos y novelas largas que antes parecían intimidantes.
-
-## Nuevas Narrativas del Aislamiento
-
-Los escritores comenzaron a explorar las experiencias del confinamiento, creando nuevas narrativas sobre la soledad, la ansiedad y la redefinición de las relaciones humanas. Autores como Cristina Rivera Garza y Juan Villoro reflexionaron sobre cómo la pandemia reveló tanto nuestras vulnerabilidades como nuestra capacidad de adaptación.
-
-## La Digitalización de la Literatura
-
-La pandemia aceleró la digitalización del mundo literario. Presentaciones de libros virtuales, clubes de lectura online y festivales literarios digitales se convirtieron en la nueva normalidad, democratizando el acceso a eventos culturales.
-
-## Hacia una Nueva Sensibilidad
-
-La literatura post-pandémica está emergiendo con una nueva sensibilidad hacia temas como la fragilidad de la vida, la importancia de la comunidad y la relación entre lo individual y lo colectivo. Esta experiencia compartida está dando lugar a una literatura más empática y consciente de nuestra interdependencia.`,
-    author: "Laura Vega",
-    publishedAt: "2023-12-20",
-    category: "ensayo",
-    tags: ["pandemia", "COVID-19", "literatura contemporánea", "sociedad"],
-    readTime: 9,
-    image: "/books-reading-pandemic-isolation-literature-home.png",
-  },
-  {
     id: "6",
     slug: "novela-historica-espanola-actual",
     title: "La Novela Histórica Española Actual: Entre la Memoria y la Ficción",
