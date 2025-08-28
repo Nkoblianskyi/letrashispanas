@@ -44,7 +44,7 @@ Lo que permanece constante es la capacidad del realismo mágico para abordar tem
 
 Estos autores demuestran que el realismo mágico no es una reliquia del pasado, sino una herramienta literaria viva y en constante evolución.`,
     author: "Carmen Rodríguez",
-    publishedAt: "2024-01-15",
+    publishedAt: "2025-01-15",
     category: "tendencias",
     tags: ["realismo mágico", "literatura contemporánea", "América Latina"],
     readTime: 8,
@@ -70,7 +70,7 @@ Las aplicaciones interactivas, los poemas generados por inteligencia artificial 
 
 Estos nuevos medios no reemplazan a la poesía tradicional, sino que la complementan y la enriquecen, ofreciendo nuevas formas de experimentar el lenguaje poético.`,
     author: "Miguel Ángel Torres",
-    publishedAt: "2024-01-10",
+    publishedAt: "2025-01-10",
     category: "poesia",
     tags: ["poesía digital", "redes sociales", "tecnología"],
     readTime: 6,
@@ -95,7 +95,7 @@ Cervantes anticipó muchas de las preocupaciones contemporáneas sobre la natura
 
 La relación entre Don Quijote y Sancho Panza representa uno de los retratos más profundos de la amistad y la complementariedad humana en toda la literatura. Sus diálogos siguen siendo una fuente inagotable de sabiduría sobre la naturaleza humana.`,
     author: "Isabel Martínez",
-    publishedAt: "2024-01-05",
+    publishedAt: "2025-01-05",
     category: "clasicos",
     tags: ["Cervantes", "Don Quijote", "literatura clásica", "análisis literario"],
     readTime: 10,
